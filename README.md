@@ -1,4 +1,4 @@
-\# Hospital Management System – SQL Data Analysis Project
+\## Hospital Management System – SQL Data Analysis Project
 
 
 
