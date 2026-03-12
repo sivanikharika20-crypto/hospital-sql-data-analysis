@@ -12,8 +12,6 @@ The dataset simulates a hospital management system with multiple relational tabl
 
 Using SQL queries, the project explores patient visits, treatment costs, and billing information.
 
----
-
 ## Database Structure
 
 The database contains 5 relational tables.
@@ -38,7 +36,6 @@ Stores treatment details and cost.
 
 Stores billing and payment information.
 
-## ---
 
 ## SQL Concepts Used
 
@@ -62,7 +59,6 @@ Views
 
 Business analysis queries
 
-## ---
 
 ## Key Business Questions
 
@@ -80,7 +76,6 @@ Which specialization performs the most treatments?
 
 What is the monthly revenue trend?
 
-## ---
 
 ## Example SQL Queries
 
@@ -105,7 +100,6 @@ FROM treatments
 GROUP BY treatment\_type
 ORDER BY total\_revenue DESC;
 
-## ---
 
 ## Tools Used
 
@@ -115,7 +109,6 @@ MySQL Workbench
 
 GitHub
 
-## ---
 
 ## Project Insights
 
@@ -129,7 +122,6 @@ Payment methods vary across billing records.
 
 Revenue trends can help hospitals plan resources and operations.
 
-## ---
 
 ## Author
 Sivanikharika R
